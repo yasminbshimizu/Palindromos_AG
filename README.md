@@ -67,19 +67,9 @@
 -->
 ## 🖇️ Informações técnicas
 * Linguagem de programação: `Python 3.9`
-* Software:  `Jupyter Notebook`
-* Bibliotecas e Módulos: `Torch`, `Lightning`, `Typing`, `Scikit-learn`, `Seaborn`
+* Software:  `Visual Studio Code`, `Jupyter Notebook`
+* Bibliotecas e Módulos: `random`, `functools`, `itertools`, `string`
 <br>
-
-## 👩‍🦳 Referências
- <!-- 
-$1.$ [**Nicola, Nicholas Di. “nicholas-dinicola/Lightning-Series"**](https://github.com/nicholas-dinicola/Lightning-Series)  
-Acesso em 12 de abril de 2025. 
-
-$2.$ [**GeeksforGeeks. “MNIST Dataset : Practical Applications Using Keras and PyTorch"**](https://www.geeksforgeeks.org/mnist-dataset/)  
-Acesso em 12 de abril de 2025.
-
-$3.$ **JAMES, Gareth; et al. An Introduction to Statistical Learning with Applications in Python.** 1. ed. Cham: Springer, 2023. p. 399–411.
 
 -->
 ## 🧠 Contribuições dos Colaboradores
