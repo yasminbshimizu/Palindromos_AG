@@ -2,9 +2,9 @@
   <img src="https://github.com/user-attachments/assets/ccb6f5f1-0e07-4eb2-aa7c-5f681c57a59c" alt="Descrição da imagem" width="1000"/>
 </div>
 
-<h1 align="center">Novos Palíndromos</h1>
+<h1 align="center">👹Oto come mocotÓ👹</h1>
 
-<h3 align="center">Encontrando palíndromos com algoritmos genéticos</h3>
+<h3 align="center">Encontrando novos palíndromos com algoritmos genéticos</h3>
 
 <p align="center"><strong>Autores:</strong> Júlia Guedes A. Santos e Yasmin Barbosa Shimizu</p>
 <p align="center"><strong>Orientador:</strong> Prof. Dr. Daniel R. Cassar</p>
