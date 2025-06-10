@@ -27,7 +27,7 @@ Além dos operadores de seleção (seleção por torneio), cruzamento (cruzament
 
 ## 📔 Notebooks e arquivos do projeto
 * `4.12 - Novos palíndromos.ipynb`: otimização do problema dos múltiplos caixeiros viajantes através de um algoritmo genético.
-* `funcoes_palindromos.py`: script com as funções construídas, necessárias para a evolução dos algoritmos genéticos
+* `funcoes_palindromos.py`: script com as funções construídas, necessárias para a evolução dos algoritmos genéticos.
 * `README.md`: descrição geral do projeto.
 
 ## 🖇️ Informações técnicas
